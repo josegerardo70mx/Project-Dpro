@@ -23,3 +23,13 @@
     @apply bg-gray-500 text-slate-700;
   }
 }
+
+.header{
+  text-align: center;
+    background-image: url('/images/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20vh;
+
+
+}
